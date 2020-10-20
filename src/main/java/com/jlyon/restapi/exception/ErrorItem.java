@@ -2,7 +2,6 @@ package com.jlyon.restapi.exception;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Data;
-import org.springframework.http.HttpStatus;
 
 import java.time.Instant;
 
